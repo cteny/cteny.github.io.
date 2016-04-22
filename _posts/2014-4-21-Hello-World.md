@@ -15,7 +15,7 @@ Název webu: Chappie
 Ono je celkově málo zdrojů i celosvětově, takže zde je seznam co se podařilo najít
 
  Wikipedia:  
-[wikipedia]("https://en.wikipedia.org/wiki/Chappie_%28film%29")
+[https://en.wikipedia.org/wiki/Chappie_%28film%29]("https://en.wikipedia.org/wiki/Chappie_%28film%29")
 
  IMDB:   
 [http://www.imdb.com/title/tt1823672/]("http://www.imdb.com/title/tt1823672/")
@@ -36,14 +36,14 @@ Pokud se budem zabývat opravdu jen filmem, existuje pouze jediný ne-webový zd
 Disponujem 3 hodinovým dokumentem o natočení filmu, ten ale není přístupný online. Dále zde najdeme:
 
 Trailer:  
-[youtube]("https://www.youtube.com/embed/l6bmTNadhJE")
+[https://www.youtube.com/embed/l6bmTNadhJE]("https://www.youtube.com/embed/l6bmTNadhJE")
 
 Videa ze zákulisí:  
-[video 1]("http://www.dailymotion.com/video/x2xbvn3_chappie-behind-the-scenes_shortfilms"), 
-[video 2]("https://www.youtube.com/playlist?list=PLvU5k5j7MWtEqnIc9PjqBDkwqdCz6v_6t")
+[http://www.dailymotion.com/video/x2xbvn3_chappie-behind-the-scenes_shortfilms]("http://www.dailymotion.com/video/x2xbvn3_chappie-behind-the-scenes_shortfilms"), 
+[https://www.youtube.com/playlist?list=PLvU5k5j7MWtEqnIc9PjqBDkwqdCz6v_6t]("https://www.youtube.com/playlist?list=PLvU5k5j7MWtEqnIc9PjqBDkwqdCz6v_6t")
 
 Obrázky:  
-[obrázek]("https://www.google.cz/search?q=chappie&newwindow=1&biw=2144&bih=1082&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3t_TS253MAhVLApoKHd4qBlQQ_AUIBygB&dpr=0.9")
+[https://www.google.cz/search?q=chappie&newwindow=1&biw=2144&bih=1082&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3t_TS253MAhVLApoKHd4qBlQQ_AUIBygB&dpr=0.9]("https://www.google.cz/search?q=chappie&newwindow=1&biw=2144&bih=1082&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3t_TS253MAhVLApoKHd4qBlQQ_AUIBygB&dpr=0.9")
 
 
 Další informace o projektu již najdete v kolonce about. :)
